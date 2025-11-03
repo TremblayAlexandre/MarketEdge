@@ -151,11 +151,11 @@ npm run dev
 ---
 
 ## � External Tools & GitHub
-
+- SEC-EDGAR — Source of official filings data used to retrieve 10-K and 10-Q reports.
 - SEC-API — Official EDGAR / SEC data API (GitHub): https://github.com/sec-api/sec-api
 - SEC-Parser (alphanome-ai) — Filings parser used in Data Layer (GitHub): https://github.com/alphanome-ai/sec-parser
 
-_Note: I inferred these repository URLs from common upstream projects and the project references in this README/attachments. If you have specific repos or different URLs, tell me and I'll update them._
+_Note: These repositories provide the upstream tools for fetching and parsing U.S. SEC filings used by this project._
 
 ---
 
