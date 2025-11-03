@@ -1,0 +1,4 @@
+sec-edgar-downloader
+openai>=0.27.0
+boto3>=1.28.0
+
