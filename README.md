@@ -151,7 +151,7 @@ npm run dev
 ---
 
 ## 👩‍💻 Authors & Contributors  
-- **Sarah A.**
+- **Sarah Ait-Ali-Yahia**
 - **Samai Azimi** 
 
 ---
