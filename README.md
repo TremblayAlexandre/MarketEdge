@@ -150,7 +150,16 @@ npm run dev
 
 ---
 
-## 👩‍💻 Authors & Contributors  
+## � External Tools & GitHub
+
+- SEC-API — Official EDGAR / SEC data API (GitHub): https://github.com/sec-api/sec-api
+- SEC-Parser (alphanome-ai) — Filings parser used in Data Layer (GitHub): https://github.com/alphanome-ai/sec-parser
+
+_Note: I inferred these repository URLs from common upstream projects and the project references in this README/attachments. If you have specific repos or different URLs, tell me and I'll update them._
+
+---
+
+## �👩‍💻 Authors & Contributors  
 - **Sarah Ait-Ali-Yahia**
 - **Samai Azimi** 
 
